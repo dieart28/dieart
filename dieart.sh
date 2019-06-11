@@ -52,9 +52,9 @@ echo $me"       ¶¶¶¶                                     ¶¶¶¶"
 echo
 echo
 echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-echo $i  "AUTHOR   : DICKY FEBRIAN"
-echo $i  "WA       : 085707706430"
-echo $i  "YOUTUBE  : DICKY GT"
+echo $i  "AUTHOR   : ANDI PERMANA"
+echo $i  "WA       : 082111315677"
+echo $i  "YOUTUBE  : "
 echo $i  "TOOLS    : INSTALLER (7 TOOLS)"
 echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo
@@ -151,7 +151,7 @@ echo $cy"Terima Kasih Sudah Pakai Tool Saya"
 sleep 2
 echo $i"Bila Ada Bug  Bisa Nanya Kepada Saya"
 sleep 2
-echo $i"WhatsApp :"$i" 085707706430"
-echo $bi"Facebook :"$i" Dicky Febrian"
+echo $i"WhatsApp :"$i" 082111315677"
+echo $bi"Facebook :"$i" ANDI PERMANA"
 exit
 fi
