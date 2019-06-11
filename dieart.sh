@@ -54,7 +54,7 @@ echo
 echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo $i  "AUTHOR   : ANDI PERMANA"
 echo $i  "WA       : 082111315677"
-echo $i  "YOUTUBE  : "
+echo $i  "YOUTUBE  : DIEART ART"
 echo $i  "TOOLS    : INSTALLER (7 TOOLS)"
 echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo
